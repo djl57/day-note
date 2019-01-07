@@ -1,0 +1,224 @@
+#page2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: 7;
+}
+#page2>#courBox {
+  width: 100%;
+  height: 100%;
+  background: url('./../imgs/chaoting_bg.jpg') no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  top: -26.5%;
+}
+#courBox>div {
+  position: absolute;
+}
+#courBox>#head1,#courBox>#head2,#courBox>#head3,#courBox>#head4,#courBox>#head5 {
+  width: 17.2%;
+  height: 10.199%;
+}
+#courBox>#head1 {
+  top: 75.5%;
+  right: 1%;
+  background: url('../imgs/tou1.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>#head2 {
+  top: 77.3%;
+  left: 21%;
+  background: url('../imgs/tou2.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>#head3 {
+  top: 67.7%;
+  left: 2%;
+  background: url('../imgs/tou3.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>#head4 {
+  top: 59.5%;
+  right: 2.7%;
+  background: url('../imgs/tou4.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>#head5 {
+  top: 51.1%;
+  left: 23%;
+  background: url('../imgs/tou5.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>#ren1 {
+  width: 17.87%;
+  height: 15.9%;
+  top: 59.5%;
+  left: 60%;
+  background: url('../imgs/ren1.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>.ren2 {
+  width: 16.333%;
+  height: 13.9%;
+  top: 67.1%;
+  left: 63%;
+  background: url('../imgs/ren2.png') no-repeat;
+  background-size: 100% 100%;
+}
+#courBox>#ren3 {
+  width: 17.87%;
+  height: 16.9%;
+  top: 75.8%;
+  left: 62%;
+  background: url('../imgs/ren3.png') no-repeat;
+  background-size: 100% 100%;
+  z-index: 7
+}
+.dialog {
+  opacity: 0;
+  width: 16.133%;
+  font-size: .8em;
+  font-family: STHeiti,"Microsoft Yahei";
+}
+.dialogRight {
+  background: url(../imgs/dialog_r.png) no-repeat;
+  background-size: 100% 100%;
+}
+.dialogLeft {
+  background: url(../imgs/dialog_l.png) no-repeat;
+  background-size: 100% 100%;
+}
+.dialog1 {
+  padding: 3% 6% 7% 3%;
+  top: 68%;
+  left: 72%;
+}
+.dialog2 {
+  padding: 3% 4% 5% 5%;
+  top: 70.8%;
+  left: 23%;
+}
+.dialog3 {
+  padding: 3% 6% 7% 3%;
+  top: 59.8%;
+  left: 5%;
+}
+.dialog4 {
+  width: 21%;
+  padding: 3% 2% 7% 3%;
+  top: 50.8%;
+  left: 69%;
+}
+.dialog5 {
+  width: 25%;
+  padding: 3% 0 4.5% 3%;
+  top: 43.5%;
+  left: 25%;
+}
+#character {
+  width: 13.067%;
+  height: 15.315%;
+  top: 26.5%;
+  right: 17%;
+}
+#character>div {
+  position: absolute;
+}
+#character>.body {
+  width: 72%;
+  height: 69%;
+  bottom: 0;
+  left: 18%;
+  background: url(../imgs/character_body.png) no-repeat;
+  background-size: 100% 100%;
+}
+#character>.head1 {
+  opacity: 1;
+  width: 100%;
+  height: 60%;
+  top: -11%;
+  background: url(../imgs/character_head1.png) no-repeat;
+  background-size: 100% 100%;
+}
+#character>.head2 {
+  opacity: 0;
+  width: 100%;
+  height: 60%;
+  top: -11%;
+  background: url(../imgs/character_head2.png) no-repeat;
+  background-size: 100% 100%;
+}
+#character>.think {
+  opacity: 0;
+  width: 266%;
+  height: 125%;
+  top: -127%;
+  left: -195%;
+  background: url(../imgs/dialog_bubble.png) no-repeat;
+  background-size: 100% 100%;
+}
+#hunter {
+  opacity: 0;
+  width: 87%;
+  height: 86%;
+  top: -2%;
+  left: 0;
+  position: absolute;
+}
+#hunter>#hunterHand {
+  width: 26%;
+  height: 37%;
+  position: absolute;
+  top: 53%;
+  left: 27%;
+  background: url(../imgs/hunter_left.png) no-repeat;
+  background-size: 100% 100%;
+}
+#hunter>.hunterBody {
+  width: 59%;
+  height: 95%;
+  left: 32%;
+  top: 6%;
+  position: absolute;
+  background: url(../imgs/hunter.png) no-repeat;
+  background-size: 100% 100%;
+}
+#poet {
+  opacity: 0;
+  width: 80%;
+  height: 86%;
+  top: 3%;
+  position: absolute;
+  background: url(../imgs/poet_body.png) no-repeat;
+  background-size: 100% 100%;
+}
+#poet>#poetHead {
+  width: 50%;
+  height: 40%;
+  left: 22%;
+  top: 6%;
+  position: absolute;
+  background: url(../imgs/poet_head.png) no-repeat;
+  background-size: 100% 100%;
+}
+#character>.say {
+  opacity: 0;
+  width: 260%;
+  height: 70%;
+  top: -75%;
+  left: -127%;
+  background: url(../imgs/dialog2_r.png) no-repeat;
+  background-size: 100% 100%;
+}
+.say>p {
+  width: 90%;
+  font-family: STHeiti,"Microsoft Yahei";
+  font-size: .8em;
+  line-height: 120%;
+  position: absolute;
+  top: 16%;
+  left: 7%;
+}

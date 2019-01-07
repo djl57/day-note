@@ -1,0 +1,1 @@
+[手把手教你封装一个vue component](https://blog.csdn.net/u013193002/article/details/70214107)

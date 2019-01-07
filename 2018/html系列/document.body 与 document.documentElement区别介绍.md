@@ -1,0 +1,1 @@
+[document.body 与 document.documentElement区别介绍](https://www.cnblogs.com/mrdooo/p/6633688.html)

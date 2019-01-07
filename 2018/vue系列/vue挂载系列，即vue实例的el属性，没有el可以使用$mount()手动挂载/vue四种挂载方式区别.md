@@ -1,0 +1,1 @@
+[vue四种挂载方式区别](https://www.cnblogs.com/beimeng/p/8005310.html)

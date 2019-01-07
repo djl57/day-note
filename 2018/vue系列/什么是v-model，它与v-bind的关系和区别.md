@@ -1,0 +1,1 @@
+[v-model和v-bind](https://blog.csdn.net/transformer_wsz/article/details/80245962)

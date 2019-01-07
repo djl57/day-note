@@ -1,0 +1,1 @@
+[javascript判断奇偶数问题javascript判断奇偶数问题](https://zhidao.baidu.com/question/71112561.html)

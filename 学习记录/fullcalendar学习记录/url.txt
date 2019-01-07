@@ -1,0 +1,37 @@
+https://blog.csdn.net/adley_function/article/details/52128744
+
+https://ask.helplib.com/javascript/post_4312683
+
+https://fullcalendar.io/docs/refetchEvents
+
+https://fullcalendar.io/docs/eventDataTransform
+
+https://fullcalendar.io/docs/events-function
+
+https://blog.csdn.net/Pompeii/article/details/44108161
+
+clientEvents
+.fullCalendar( 'clientEvents' [, idOrFilter ] ) -> Array 返回一个日程对象的数组
+如果idOrFilter不写，则输出全部保存在客户端的日程对象数组
+如果为ID ，则返回所有为此ID的对象
+还可以为一个过滤function 接受一个日程对象，如果返回true，则此值包含在客户端对象组中国
+
+41.渲染事件
+.fullCalendar('renderEvent',event[,stick])
+通常，一旦日历重新取得日程源，则原有日程将消失，当指定stick为true时，日程将永久的保存到日历上
+
+
+42.重新渲染所有事件
+rerenderEvents 
+.fullCalendar('rerenderEvents')
+
+36.重新取得日程
+.fullCalendar('refetchEvents') 从所有源并且重新渲染到屏幕上
+
+https://blog.csdn.net/lizai22/article/details/53522523
+
+https://blog.csdn.net/Pompeii/article/details/44108161
+
+
+
+https://blog.csdn.net/vagrenter/article/details/79170741

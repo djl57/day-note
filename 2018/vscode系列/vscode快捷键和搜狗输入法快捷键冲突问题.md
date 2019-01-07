@@ -1,0 +1,1 @@
+[解决Eclipse和搜狗输入法快捷键冲突问题](https://jingyan.baidu.com/article/0eb457e521b7ba03f0a90571.html)

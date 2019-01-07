@@ -1,0 +1,1 @@
+[vue2——指令v-text && v-html && v-bind](https://www.jianshu.com/p/4131e8b033de)

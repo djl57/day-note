@@ -1,0 +1,1 @@
+[Windows上安装nodejs版本管理器nvm](https://www.cnblogs.com/weiqinl/p/7503123.html.)

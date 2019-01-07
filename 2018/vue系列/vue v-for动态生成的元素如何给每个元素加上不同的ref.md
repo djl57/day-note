@@ -1,0 +1,1 @@
+[vue v-for动态生成的元素如何给每个元素加上不同的ref](https://segmentfault.com/q/1010000010251765)
